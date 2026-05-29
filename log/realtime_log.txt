@@ -7,3 +7,11 @@ LLM: Tentu, saya bisa bantu Anda cari flight ila Jeddah untuk al-usbu al-qadim. 
 STT: Kamu bisa bantu saya arrange transport ke Madinah?
 LLM: Tentu, saya bisa bantu Anda arrange transport ke Madinah. Bisakah Anda berikan detail lebih lanjut seperti tanggal dan jumlah penumpang?
 ------------------------------------------------------------
+
+STT: Assalamualaikum, excuse me assistant, saya mengalami kendala saat login ke aplikasi, tolong bantu ya, jazakallah.
+LLM: Waalaikumsalam, tentu, saya akan bantu. Bisakah Anda jelaskan kendala loginnya seperti apa? Jazakallah khair.
+------------------------------------------------------------
+
+STT: assalamualaikum excuse me assistant saya mengalami kendala saat login ke aplikasi tolong bantu ya jazakallah
+LLM: Waalaikumsalam, tentu, saya akan bantu. Bisakah Anda jelaskan lebih detail kendala login yang Anda alami? Jazakallah khair.
+------------------------------------------------------------
