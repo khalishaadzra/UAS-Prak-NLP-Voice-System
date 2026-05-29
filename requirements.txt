@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-dotenv
+google-genai
+coqui-tts
+transformers==4.51.3
+gradio
+requests
+scipy
+pydantic
+numpy==1.26.4
